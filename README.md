@@ -14,4 +14,5 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-https://leetcard.jacoblin.cool/soad666p?theme=dark&font=Suravaram
+
+![Leetcode Stats](https://leetcard.jacoblin.cool/soad666p)
